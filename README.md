@@ -1,1 +1,2 @@
-# Complete-Css-Design-Guide
+#### p.31  
+https://specificity.keegan.st/  
