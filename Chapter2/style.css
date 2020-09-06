@@ -137,12 +137,12 @@ body {
     line-height: 1.5;
 }
 
-#main .bl_module.main-module .img-wrapper {
+#main .bl_module.main-module .image-wrapper {
     flex: 1 1 25%;
     margin-right: 3.33333%;
 }
 
-#main .bl_module.main-module .img-wrapper img {
+#main .bl_module.main-module .image-wrapper img {
     width: 100%;
     vertical-align: top;
 }
