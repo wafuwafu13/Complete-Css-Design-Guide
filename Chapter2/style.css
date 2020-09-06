@@ -124,7 +124,7 @@ body {
 /* モジュール
 ＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝ */
 
-#main span {
+#main .bl_module.main-module .body > span {
     color: #555;
     font-size: 14px;
 }
